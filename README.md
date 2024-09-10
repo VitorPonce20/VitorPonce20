@@ -1,7 +1,7 @@
 ## Hi there 👋
 My name is Vitor, I love software quality 
 
-📫 How to reach me: <a href="[url](https://www.linkedin.com/in/vitor-ponce-175594143/)">Linkedin</a>
+📫 How to reach me: [Linkedin](https://www.linkedin.com/in/vitor-ponce-175594143/)
 
 - 🔭 I’m currently working on API Quality Assurance.
 - 🌱 I’m currently studying for quality certifications 
