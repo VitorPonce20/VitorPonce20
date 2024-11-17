@@ -5,5 +5,5 @@ My name is Vitor, I like to help deliver very good and beautiful products!
 
 - 🔭 I’m currently working on API, Backend, System Level Testing.
 - 💬 Ask me about E2E Testing, Test Pyramid, API Testing
-- ⚡ Fun fact: Love 4 technology
+
 
